@@ -1,0 +1,9 @@
+pandas
+numpy
+mlxtend
+networkx
+matplotlib
+pyvis
+jinja2
+streamlit
+plotly

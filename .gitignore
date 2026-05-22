@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Project Large Datasets (Ignore raw transactional CSVs to prevent Git bloat)
+data/*.csv
+data/*.xlsx
+
+# Project Compiled/Generated Outputs
+outputs/
