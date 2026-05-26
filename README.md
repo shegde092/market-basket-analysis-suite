@@ -127,6 +127,4 @@ The rules engine filters and ranks associations based on three primary mathemati
 
 ## 🌟 Acknowledgements & Internship Portfolio
 * **Developer:** Soujanya K Hegde
-* **Internship Track:** Data Science - Retail Analytics
-* **Host Platform:** Persevex LMS
 * **GitHub Repository:** [shegde092/market-basket-analysis-suite](https://github.com/shegde092/market-basket-analysis-suite)
