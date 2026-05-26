@@ -1,7 +1,7 @@
 # 📊 Retail Market Basket Analytics Suite
 > **An End-to-End Retail Intelligence Platform for Upselling & Cross-Selling**
 
-[![Streamlit App](https://static.streamlit.io/badge_svg.svg)](https://shegde092-market-basket-analysis-suite.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badge_svg.svg)](https://market-basket-analysis-suite-hkwkdzrgkazqlauyygf5bu.streamlit.app/)
 [![GitHub License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/shegde092/market-basket-analysis-suite/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-brightgreen.svg)](#)
 
@@ -14,7 +14,7 @@ This production-grade analytics platform uses **Association Rule Mining** (compa
 ## 🚀 Live Interactive Dashboard
 You can access and interact with the live deployed project directly on the web:
 
-👉 **[Access the Live Analytics Dashboard](https://shegde092-market-basket-analysis-suite.streamlit.app)**
+👉 **[Access the Live Analytics Dashboard](https://market-basket-analysis-suite-hkwkdzrgkazqlauyygf5bu.streamlit.app/)**
 
 ### 💡 What you can do on the Live Dashboard:
 * **Dynamic Parameter Sliders:** Tune **Minimum Support**, **Confidence**, and **Lift** in real-time to watch rules recalculate.
